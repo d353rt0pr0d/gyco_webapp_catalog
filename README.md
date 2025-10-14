@@ -1,9 +1,3 @@
-Certamente! Creare una buona descrizione (un file `README.md`) per un progetto GitHub è fondamentale per far capire subito di cosa si tratta, quali tecnologie utilizza e come può essere usato da altri.
-
-Ecco una descrizione completa e professionale per il tuo "GYCO WebApp Catalog", scritta in formato Markdown. Puoi copiare e incollare questo testo direttamente in un nuovo file chiamato `README.md` alla radice del tuo repository GitHub.
-
----
-
 # GYCO WebApp Catalog
 
 [![Built with Google Apps Script](https://img.shields.io/badge/Built_with-Google_Apps_Script-blue.svg)](https://www.google.com/script/start/)
